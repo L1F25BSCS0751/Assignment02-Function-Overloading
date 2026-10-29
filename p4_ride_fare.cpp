@@ -13,7 +13,7 @@ int main() {
     cout << "fare(8, 'C') = " << fare(8, 'C') << endl;
     cout << "fare(8, 'C', 10) = " << fare(8, 'C', 10) << endl;
 
-    // ---- Part B: write your code below this line ----
+     // ---- Part B: write your code below this line ----
     int rides;
     cout << "How many rides?";
     cin >> rides;
