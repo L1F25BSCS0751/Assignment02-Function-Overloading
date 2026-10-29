@@ -1,7 +1,7 @@
 // Answer 1: yes, Both versions of sumArray() have the same default (size = 5).
 //           but data types of parameters are different which distinguish which 
 //           function  is calling
-
+ 
 #include <iostream>
 using namespace std;
 
