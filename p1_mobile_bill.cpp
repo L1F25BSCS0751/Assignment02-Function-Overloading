@@ -3,7 +3,7 @@
 // calling a function. So we must write mobileBill(60, 0, 1.5)
 // Answer 2: The call mobileBill(60, , 1.5) gives a syntax error because C++ 
 // does not allow an argument to be left empty between commas.
-
+ 
 #include <iostream>
 using namespace std;
 
